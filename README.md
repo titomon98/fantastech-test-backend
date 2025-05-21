@@ -118,3 +118,10 @@ I skipped many things like many other validations, login, tokens, a complete arc
 ---
 
 ## To see the frontend repository, please visit https://github.com/titomon98/fantastech-test-frontend
+
+## Consider the changes mentioned from the interview for future processes.
+### 1. **Extra cases**
+What if the sms is part of 10, 100 or 1000 (or more). The calculus must be based from the calculations and not from a constant variable
+### 2. **Annotations**
+Annotations like @Autowired are not longer used as a good practice
+Forgot to put some testing annotations
